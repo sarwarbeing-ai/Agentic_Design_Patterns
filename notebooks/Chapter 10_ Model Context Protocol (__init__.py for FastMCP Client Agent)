@@ -1,0 +1,1 @@
+{"cells":[{"cell_type":"code","source":["# ./adk_agent_samples/fastmcp_client_agent/__init__.py\n","from . import agent"],"outputs":[],"execution_count":null,"metadata":{"id":"HCGQeL-9Jau5"}}],"metadata":{"colab":{"provenance":[]},"kernelspec":{"display_name":"Python 3","name":"python3"}},"nbformat":4,"nbformat_minor":0}
